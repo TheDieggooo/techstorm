@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Jost', sans-serif;
+    
+}
+
+
+
+.signup{
+    width: 850px;
+    height: 700px;
+    position: relative;
+    background: linear-gradient(to bottom, #7aad6d, greenyellow, #7aad6d);
+    overflow: hidden;
+    box-shadow: 5px 20px 50px #000;
+    border-radius: 10px;
+}
+label{
+
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+    letter-spacing: 5px;
+    font-family: 'Jost', sans-serif;
+}
+
+
+
+
+
+
+
+input[type="text" i]{
+	width: 60%;
+	height: 20px;
+	background: #e0dede;
+	justify-content: center;
+	display: flex;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+input[type="email" i]{
+	width: 60%;
+	height: 20px;
+	background: #e0dede;
+	justify-content: center;
+	display: flex;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+input[type="Geolocation" i]{
+	width: 60%;
+	height: 20px;
+	background: #e0dede;
+	justify-content: center;
+	display: flex;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+
